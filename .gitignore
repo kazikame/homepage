@@ -5,3 +5,4 @@ resume*
 google*
 files/**
 pdf/**
+.gitignore
